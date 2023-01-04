@@ -1,0 +1,15 @@
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.csproj.AssemblyReference.cache
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.AssemblyInfoInputs.cache
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.AssemblyInfo.cs
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.csproj.CoreCompileInputs.cache
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\bin\Debug\net6.0\Exercicios POO.exe
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\bin\Debug\net6.0\Exercicios POO.deps.json
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\bin\Debug\net6.0\Exercicios POO.runtimeconfig.json
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\bin\Debug\net6.0\Exercicios POO.dll
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\bin\Debug\net6.0\Exercicios POO.pdb
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.dll
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\refint\Exercicios POO.dll
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.pdb
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\Exercicios POO.genruntimeconfig.cache
+C:\Users\Letícia\Desktop\DIO\Conhecendo a Plataforma .NET e C#\Exemplo explorando\Exercicios POO\Exercicios POO\obj\Debug\net6.0\ref\Exercicios POO.dll
